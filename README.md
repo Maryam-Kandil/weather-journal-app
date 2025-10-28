@@ -70,43 +70,4 @@ Click the Generate button
 
 See the temperature, date, and your mood appear instantly
 
-## Project Structure
-pgsql
-Copy code
-weather-journal-app/
-│
-├── website/
-│   ├── index.html
-│   ├── style.css
-│   └── app.js
-│
-├── server.js
-├── package.json
-├── package-lock.json
-├── .gitignore
-└── README.md
-## Key Learning Outcomes
-Using asynchronous JavaScript (async / await)
 
-Handling GET and POST requests with the Fetch API
-
-Managing routes in an Express server
-
-Connecting frontend and backend
-
-Integrating third-party APIs into web projects
-
-## Future Improvements
-Add city names, humidity, and weather icons
-
-Improve mobile responsiveness
-
-Store past entries locally or in a database
-
-Host the app using Render or GitHub Pages
-
-## License
-This project is licensed under the MIT License — you are free to use, modify, and distribute this software as long as proper credit is given.
-
-
-Maryam Kandil
