@@ -98,16 +98,13 @@ Store past entries locally or in a database
 
 Host the app using Render or GitHub Pages
 
-## License
-
-This project is licensed under the MIT License — you are free to use, modify, and distribute this software as long as proper credit is given.
 
 ## Live Demo
 🔗 View Live Project ()
 
 ## Author
-Maryam Kandil
-
+**Maryam Kandil**
+Software engineer.
 
 
 
