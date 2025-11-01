@@ -104,7 +104,7 @@ Host the app using Render or GitHub Pages
 
 ## Author
 **Maryam Kandil**
-Software engineer.
+**: Software engineer**
 
 
 
